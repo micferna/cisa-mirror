@@ -7,6 +7,14 @@
     <language>en</language>
     
     <item>
+  <title>CISA Enhances Known Exploited Vulnerabilities Catalog to Include New Nomination Form</title>
+  <link>https://www.cisa.gov/news-events/news/cisa-enhances-known-exploited-vulnerabilities-catalog-include-new-nomination-form</link>
+  <description/>
+  <pubDate>Thu, 21 May 26 12:00:00 +0000</pubDate>
+    <dc:creator>CISA</dc:creator>
+    <guid isPermaLink="false">/node/24912</guid>
+    </item>
+<item>
   <title>CISA Unveils New Initiative to Fortify America’s Critical Infrastructure</title>
   <link>https://www.cisa.gov/news-events/news/cisa-unveils-new-initiative-fortify-americas-critical-infrastructure</link>
   <description/>
@@ -77,14 +85,6 @@
   <pubDate>Wed, 11 Feb 26 12:00:00 +0000</pubDate>
     <dc:creator>CISA</dc:creator>
     <guid isPermaLink="false">/node/24532</guid>
-    </item>
-<item>
-  <title>CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
-  <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
-  <description/>
-  <pubDate>Tue, 10 Feb 26 12:00:00 +0000</pubDate>
-    <dc:creator>CISA</dc:creator>
-    <guid isPermaLink="false">/node/24531</guid>
     </item>
 
   </channel>

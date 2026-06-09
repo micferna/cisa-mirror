@@ -7,6 +7,14 @@
     <language>en</language>
     
     <item>
+  <title>CISA Announces Winners of the 2026 President’s Cup Cybersecurity Competition</title>
+  <link>https://www.cisa.gov/news-events/news/cisa-announces-winners-2026-presidents-cup-cybersecurity-competition</link>
+  <description/>
+  <pubDate>Tue, 09 Jun 26 12:00:00 +0000</pubDate>
+    <dc:creator>CISA</dc:creator>
+    <guid isPermaLink="false">/node/25004</guid>
+    </item>
+<item>
   <title>CISA Urges Stronger Security for Automatic Tank Gauge Systems</title>
   <link>https://www.cisa.gov/news-events/news/cisa-urges-stronger-security-automatic-tank-gauge-systems</link>
   <description/>
@@ -77,14 +85,6 @@
   <pubDate>Thu, 26 Feb 26 12:00:00 +0000</pubDate>
     <dc:creator>CISA</dc:creator>
     <guid isPermaLink="false">/node/24606</guid>
-    </item>
-<item>
-  <title>Immediate Action Required: CISA Issues Emergency Directive to Secure Cisco SD-WAN Systems</title>
-  <link>https://www.cisa.gov/news-events/news/immediate-action-required-cisa-issues-emergency-directive-secure-cisco-sd-wan-systems</link>
-  <description/>
-  <pubDate>Wed, 25 Feb 26 12:00:00 +0000</pubDate>
-    <dc:creator>CISA</dc:creator>
-    <guid isPermaLink="false">/node/24592</guid>
     </item>
 
   </channel>
